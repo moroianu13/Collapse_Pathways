@@ -1,0 +1,9 @@
+case_id,case_name,case_type,region,period_start,period_end,time_window_years,phase_label,collapse_outcome,collapse_within_next_window,political_fragmentation,elite_conflict,succession_crisis,legitimacy_crisis,administrative_overload,corruption_governance_failure,social_inequality,social_unrest_rebellion,demographic_pressure,migration_pressure,ethnic_sectarian_fragmentation,urban_decline,fiscal_crisis,taxation_extraction_pressure,trade_disruption,inflation_currency_instability,resource_dependency,agricultural_decline,drought_climate_stress,flood_environmental_shock,temperature_anomaly,ecological_degradation,food_insecurity,external_invasion_pressure,civil_war_internal_conflict,military_overstretch,territorial_loss,institutional_rigidity,adaptive_capacity,logistics_food_storage_resilience,alliance_network_strength,recovery_capacity,data_confidence,source_count,notes
+bronze_age_-1300_-1275,Bronze Age Collapse States,ancient,Eastern Mediterranean,-1300,-1275,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bronze_age_-1275_-1250,Bronze Age Collapse States,ancient,Eastern Mediterranean,-1275,-1250,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bronze_age_-1250_-1225,Bronze Age Collapse States,ancient,Eastern Mediterranean,-1250,-1225,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bronze_age_-1225_-1200,Bronze Age Collapse States,ancient,Eastern Mediterranean,-1225,-1200,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bronze_age_-1200_-1175,Bronze Age Collapse States,ancient,Eastern Mediterranean,-1200,-1175,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bronze_age_-1175_-1150,Bronze Age Collapse States,ancient,Eastern Mediterranean,-1175,-1150,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bronze_age_-1150_-1125,Bronze Age Collapse States,ancient,Eastern Mediterranean,-1150,-1125,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+bronze_age_-1125_-1100,Bronze Age Collapse States,ancient,Eastern Mediterranean,-1125,-1100,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

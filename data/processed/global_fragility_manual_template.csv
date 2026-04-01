@@ -1,0 +1,13 @@
+factor_name,historical_category,historical_weight,current_global_score_0_to_3,confidence_level,evidence_notes,weighted_score_placeholder
+legitimacy_crisis,political,0.106313,,,,
+geopolitical_instability,military_geopolitical,0.100526,,,,
+adaptive_capacity_resilience,resilience_institutional,0.098742,,,,
+political_fragmentation_polarization,political,0.096189,,,,
+trade_disruption,economic,0.094495,,,,
+conflict_pressure,military_geopolitical,0.089513,,,,
+fiscal_strain,economic,0.08236,,,,
+urban_social_stress,social,0.079924,,,,
+institutional_rigidity,political+resilience_institutional,0.079556,,,,
+food_insecurity,economic+environmental,0.075357,,,,
+resource_dependency,economic,0.061805,,,,
+environmental_stress,environmental,0.03522,,,,

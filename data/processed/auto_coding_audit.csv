@@ -1,0 +1,175 @@
+case_id,case_name,period_start,period_end,factors_filled_count,unknown_9_count,phase_label,collapse_outcome,collapse_within_next_window,data_confidence,notes
+akkadian_-2350_-2325,Akkadian Empire,-2350,-2325,32,11,stable,0,0,low,"The empire is expanding and still resilient, though its reach already depends on military coercion and broad resource control."
+akkadian_-2325_-2300,Akkadian Empire,-2325,-2300,32,11,stable,0,0,low,"The empire is expanding and still resilient, though its reach already depends on military coercion and broad resource control."
+akkadian_-2300_-2275,Akkadian Empire,-2300,-2275,32,10,stressed,1,0,low,"Imperial overextension, elite conflict, and dependence on northern zones and exchange networks create growing strain."
+akkadian_-2275_-2250,Akkadian Empire,-2275,-2250,32,10,stressed,1,0,low,"Imperial overextension, elite conflict, and dependence on northern zones and exchange networks create growing strain."
+akkadian_-2250_-2225,Akkadian Empire,-2250,-2225,32,6,decline,2,0,low,"Late-apogee strain raises conflict, overextension, and early agrarian-climate stress without full imperial breakdown yet."
+akkadian_-2225_-2200,Akkadian Empire,-2225,-2200,32,5,decline,2,1,low,"Northern contraction, agrarian stress, and exchange disruption deepen as the empire loses coherence."
+akkadian_-2200_-2175,Akkadian Empire,-2200,-2175,32,5,collapse,3,0,low,"Political fragmentation, succession crisis, external pressure, and climate-linked agrarian stress combine in terminal imperial collapse."
+akkadian_-2175_-2150,Akkadian Empire,-2175,-2150,32,11,post-collapse,3,0,low,"The Akkadian imperial system is gone, though regional continuity persists beyond the empire itself."
+aztec_1400_1425,Aztec Empire,1400,1425,32,10,stable,0,0,medium,The imperial core consolidates with low acute collapse indicators and strong logistical capacity.
+aztec_1425_1450,Aztec Empire,1425,1450,32,10,stable,0,0,medium,The imperial core consolidates with low acute collapse indicators and strong logistical capacity.
+aztec_1450_1475,Aztec Empire,1450,1475,32,9,stressed,1,0,medium,"A coercive tributary empire expands, but subject resentment and weak alliance loyalty create latent fragility."
+aztec_1475_1500,Aztec Empire,1475,1500,32,9,stressed,1,1,medium,"A coercive tributary empire expands, but subject resentment and weak alliance loyalty create latent fragility."
+aztec_1500_1525,Aztec Empire,1500,1525,32,7,collapse,3,0,medium,"Spanish-indigenous coalition warfare, epidemic shock, and subject-polity defection collapse the empire rapidly."
+bronze_age_-1300_-1275,Bronze Age Collapse States,-1300,-1275,32,13,stable,0,0,low,"A highly interconnected palace world persists, but its complexity already depends on vulnerable exchange and administrative systems."
+bronze_age_-1275_-1250,Bronze Age Collapse States,-1275,-1250,32,13,stable,0,0,low,"A highly interconnected palace world persists, but its complexity already depends on vulnerable exchange and administrative systems."
+bronze_age_-1250_-1225,Bronze Age Collapse States,-1250,-1225,32,10,stressed,1,0,low,"Trade fragility, pressure on palace systems, and early military stress become more visible across the region."
+bronze_age_-1225_-1200,Bronze Age Collapse States,-1225,-1200,32,10,decline,2,1,low,"Interconnected palace states face escalating trade breakdown, invasion pressure, migration, and food stress."
+bronze_age_-1200_-1175,Bronze Age Collapse States,-1200,-1175,32,12,collapse,3,0,low,The regional crisis peaks as urban systems fail and multiple palace-centered states fragment or disappear.
+bronze_age_-1175_-1150,Bronze Age Collapse States,-1175,-1150,32,20,post-collapse,3,0,low,"Post-collapse fragmentation remains severe even as some regions stabilize under new, smaller political formations."
+bronze_age_-1150_-1125,Bronze Age Collapse States,-1150,-1125,32,20,post-collapse,3,0,low,"Post-collapse fragmentation remains severe even as some regions stabilize under new, smaller political formations."
+bronze_age_-1125_-1100,Bronze Age Collapse States,-1125,-1100,32,20,post-collapse,2,0,low,"The collapse horizon has passed, but regional recovery remains uneven and the old palace order has not returned."
+byzantine_1000_1025,Byzantine Decline,1000,1025,32,11,stable,0,0,medium,The empire remains strong before the post-Basil II decline begins.
+byzantine_1025_1050,Byzantine Decline,1025,1050,32,10,stressed,1,0,medium,Post-Basil II succession problems and elite rivalry weaken the military-fiscal core.
+byzantine_1050_1075,Byzantine Decline,1050,1075,32,10,stressed,1,0,medium,Post-Basil II succession problems and elite rivalry weaken the military-fiscal core.
+byzantine_1075_1100,Byzantine Decline,1075,1100,32,7,decline,2,0,medium,Anatolian loss and military strain transform the empire even as partial Komnenian recovery moderates the damage.
+byzantine_1100_1125,Byzantine Decline,1100,1125,32,7,decline,2,0,medium,Anatolian loss and military strain transform the empire even as partial Komnenian recovery moderates the damage.
+byzantine_1125_1150,Byzantine Decline,1125,1150,32,7,decline,2,0,medium,Anatolian loss and military strain transform the empire even as partial Komnenian recovery moderates the damage.
+byzantine_1150_1175,Byzantine Decline,1150,1175,32,7,decline,2,0,medium,Anatolian loss and military strain transform the empire even as partial Komnenian recovery moderates the damage.
+byzantine_1175_1200,Byzantine Decline,1175,1200,32,7,decline,2,1,medium,Late Komnenian weakening and fiscal strain leave the empire vulnerable before 1204.
+byzantine_1200_1225,Byzantine Decline,1200,1225,32,7,collapse,3,0,medium,"The Fourth Crusade produces imperial fragmentation, territorial loss, and a true collapse of the Byzantine center."
+byzantine_1225_1250,Byzantine Decline,1225,1250,32,11,post-collapse,2,0,medium,"Nicaean recovery and restoration revive imperial institutions, but the empire remains weaker and more fragmented than before."
+byzantine_1250_1275,Byzantine Decline,1250,1275,32,11,post-collapse,2,0,medium,"Nicaean recovery and restoration revive imperial institutions, but the empire remains weaker and more fragmented than before."
+byzantine_1275_1300,Byzantine Decline,1275,1300,32,7,decline,2,0,medium,"Commercial dependence, fiscal weakness, and renewed external pressure deepen the long post-1204 decline."
+byzantine_1300_1325,Byzantine Decline,1300,1325,32,7,decline,2,0,medium,"Commercial dependence, fiscal weakness, and renewed external pressure deepen the long post-1204 decline."
+byzantine_1325_1350,Byzantine Decline,1325,1350,32,6,decline,2,0,medium,Civil wars and foreign encroachment intensify late Byzantine fiscal and territorial erosion.
+byzantine_1350_1375,Byzantine Decline,1350,1375,32,6,decline,2,0,medium,Civil wars and foreign encroachment intensify late Byzantine fiscal and territorial erosion.
+byzantine_1375_1400,Byzantine Decline,1375,1400,32,6,decline,2,0,medium,Civil wars and foreign encroachment intensify late Byzantine fiscal and territorial erosion.
+byzantine_1400_1425,Byzantine Decline,1400,1425,32,7,decline,2,0,medium,The empire survives as a much smaller polity with weak alliances and very limited recovery capacity.
+byzantine_1425_1450,Byzantine Decline,1425,1450,32,7,decline,2,1,medium,The empire survives as a much smaller polity with weak alliances and very limited recovery capacity.
+byzantine_1450_1453,Byzantine Decline,1450,1453,32,7,collapse,3,0,medium,Final Ottoman conquest ends the Byzantine state after centuries of cumulative decline.
+mesopotamian_-2100_-2075,Classic Mesopotamian States,-2100,-2075,32,11,stable,0,0,low,"Ur III and related systems maintain order, though they remain resource- and infrastructure-dependent."
+mesopotamian_-2075_-2050,Classic Mesopotamian States,-2075,-2050,32,11,stable,0,0,low,"Ur III and related systems maintain order, though they remain resource- and infrastructure-dependent."
+mesopotamian_-2050_-2025,Classic Mesopotamian States,-2050,-2025,32,10,stressed,1,1,low,Fiscal and agrarian strain rise before the final Ur III breakdown.
+mesopotamian_-2025_-2000,Classic Mesopotamian States,-2025,-2000,32,6,collapse,3,0,low,"The end of Ur III combines fragmentation, famine risk, external attack, and territorial loss."
+mesopotamian_-2000_-1975,Classic Mesopotamian States,-2000,-1975,32,20,post-collapse,2,0,low,"Post-Ur III fragmentation persists, but institutional continuity and regional recovery remain real."
+mesopotamian_-1975_-1950,Classic Mesopotamian States,-1975,-1950,32,20,post-collapse,2,0,low,"Post-Ur III fragmentation persists, but institutional continuity and regional recovery remain real."
+mesopotamian_-1950_-1925,Classic Mesopotamian States,-1950,-1925,32,12,stressed,1,0,low,The Isin-Larsa world is politically fragmented yet still economically interactive and regionally resilient.
+mesopotamian_-1925_-1900,Classic Mesopotamian States,-1925,-1900,32,12,stressed,1,0,low,The Isin-Larsa world is politically fragmented yet still economically interactive and regionally resilient.
+mesopotamian_-1900_-1875,Classic Mesopotamian States,-1900,-1875,32,12,stressed,1,0,low,The Isin-Larsa world is politically fragmented yet still economically interactive and regionally resilient.
+mesopotamian_-1875_-1850,Classic Mesopotamian States,-1875,-1850,32,12,stressed,1,0,low,The Isin-Larsa world is politically fragmented yet still economically interactive and regionally resilient.
+mesopotamian_-1850_-1825,Classic Mesopotamian States,-1850,-1825,32,12,stressed,1,0,low,Fragmented but adaptive interstate competition persists before Hammurabi's reconsolidation.
+mesopotamian_-1825_-1800,Classic Mesopotamian States,-1825,-1800,32,12,stressed,1,0,low,Fragmented but adaptive interstate competition persists before Hammurabi's reconsolidation.
+mesopotamian_-1800_-1775,Classic Mesopotamian States,-1800,-1775,32,12,stressed,1,0,low,Fragmented but adaptive interstate competition persists before Hammurabi's reconsolidation.
+mesopotamian_-1775_-1750,Classic Mesopotamian States,-1775,-1750,32,11,stable,1,0,low,Hammurabi's reconsolidation temporarily lowers fragmentation without eliminating longer-term structural vulnerability.
+mesopotamian_-1750_-1725,Classic Mesopotamian States,-1750,-1725,32,7,decline,2,0,low,"Post-Hammurabi contraction brings renewed internal conflict, urban weakening, and territorial loss."
+mesopotamian_-1725_-1700,Classic Mesopotamian States,-1725,-1700,32,7,decline,2,0,low,"Post-Hammurabi contraction brings renewed internal conflict, urban weakening, and territorial loss."
+mesopotamian_-1700_-1675,Classic Mesopotamian States,-1700,-1675,32,7,decline,2,0,low,"Late Old Babylonian weakness grows, but the final sack falls just beyond the dataset's last window."
+mesopotamian_-1675_-1650,Classic Mesopotamian States,-1675,-1650,32,7,decline,2,0,low,"Late Old Babylonian weakness grows, but the final sack falls just beyond the dataset's last window."
+mesopotamian_-1650_-1625,Classic Mesopotamian States,-1650,-1625,32,7,decline,2,0,low,"Late Old Babylonian weakness grows, but the final sack falls just beyond the dataset's last window."
+mesopotamian_-1625_-1600,Classic Mesopotamian States,-1625,-1600,32,7,decline,2,0,low,"Late Old Babylonian weakness grows, but the final sack falls just beyond the dataset's last window."
+easter_island_1200_1225,Easter Island,1200,1225,32,15,stable,0,0,low,Early settlement and adaptation do not yet support a clear pre-contact collapse narrative.
+easter_island_1225_1250,Easter Island,1225,1250,32,15,stable,0,0,low,Early settlement and adaptation do not yet support a clear pre-contact collapse narrative.
+easter_island_1250_1275,Easter Island,1250,1275,32,15,stable,0,0,low,Early settlement and adaptation do not yet support a clear pre-contact collapse narrative.
+easter_island_1275_1300,Easter Island,1275,1300,32,15,stable,0,0,low,Early settlement and adaptation do not yet support a clear pre-contact collapse narrative.
+easter_island_1300_1325,Easter Island,1300,1325,32,15,stressed,1,0,low,"Resource constraints and ecological change increase, but evidence for island-wide collapse remains weak."
+easter_island_1325_1350,Easter Island,1325,1350,32,15,stressed,1,0,low,"Resource constraints and ecological change increase, but evidence for island-wide collapse remains weak."
+easter_island_1350_1375,Easter Island,1350,1375,32,15,stressed,1,0,low,"Resource constraints and ecological change increase, but evidence for island-wide collapse remains weak."
+easter_island_1375_1400,Easter Island,1375,1400,32,15,stressed,1,0,low,"Resource constraints and ecological change increase, but evidence for island-wide collapse remains weak."
+easter_island_1400_1425,Easter Island,1400,1425,32,15,stressed,1,0,low,"Resource constraints and ecological change increase, but evidence for island-wide collapse remains weak."
+easter_island_1425_1450,Easter Island,1425,1450,32,15,stressed,1,0,low,"Resource constraints and ecological change increase, but evidence for island-wide collapse remains weak."
+easter_island_1450_1475,Easter Island,1450,1475,32,15,decline,1,0,low,"Regional land-use contraction and ecological change are visible, but warfare and demographic-collapse claims remain debated."
+easter_island_1475_1500,Easter Island,1475,1500,32,15,decline,1,0,low,"Regional land-use contraction and ecological change are visible, but warfare and demographic-collapse claims remain debated."
+easter_island_1500_1525,Easter Island,1500,1525,32,15,decline,1,0,low,"Regional land-use contraction and ecological change are visible, but warfare and demographic-collapse claims remain debated."
+easter_island_1525_1550,Easter Island,1525,1550,32,15,decline,1,0,low,"Regional land-use contraction and ecological change are visible, but warfare and demographic-collapse claims remain debated."
+easter_island_1550_1575,Easter Island,1550,1575,32,14,decline,2,0,low,Late pre-contact drought and freshwater stress likely intensified an already transformed island system without securely proving total collapse.
+easter_island_1575_1600,Easter Island,1575,1600,32,14,decline,2,0,low,Late pre-contact drought and freshwater stress likely intensified an already transformed island system without securely proving total collapse.
+easter_island_1600_1625,Easter Island,1600,1625,32,14,decline,2,0,low,Late pre-contact drought and freshwater stress likely intensified an already transformed island system without securely proving total collapse.
+easter_island_1625_1650,Easter Island,1625,1650,32,14,decline,2,0,low,Late pre-contact drought and freshwater stress likely intensified an already transformed island system without securely proving total collapse.
+easter_island_1650_1675,Easter Island,1650,1675,32,14,decline,2,0,low,Late pre-contact drought and freshwater stress likely intensified an already transformed island system without securely proving total collapse.
+easter_island_1675_1700,Easter Island,1675,1700,32,14,decline,2,0,low,Late pre-contact drought and freshwater stress likely intensified an already transformed island system without securely proving total collapse.
+han_150_160,Han Dynasty Crisis,150,160,32,9,stressed,1,0,medium,"Late Han court factionalism, land concentration, and frontier burdens weaken but do not yet break the regime."
+han_160_170,Han Dynasty Crisis,160,170,32,9,stressed,1,0,medium,"Late Han court factionalism, land concentration, and frontier burdens weaken but do not yet break the regime."
+han_170_180,Han Dynasty Crisis,170,180,32,5,decline,2,0,medium,Court fragility deepens as environmental stress and fiscal weakness accumulate before the terminal crisis.
+han_180_190,Han Dynasty Crisis,180,190,32,7,decline,2,1,medium,The Yellow Turban revolt and the 189 court crisis push the late Han into acute but not yet final breakdown.
+han_190_200,Han Dynasty Crisis,190,200,32,7,collapse,3,0,medium,"Civil war, warlordism, and Luoyang's destruction mark the collapse of effective central Han authority."
+han_200_210,Han Dynasty Crisis,200,210,32,11,post-collapse,3,0,medium,Central authority remains shattered as regional military regimes dominate the former empire.
+han_210_220,Han Dynasty Crisis,210,220,32,11,post-collapse,3,0,medium,The Han end state is one of durable fragmentation and low recovery capacity before formal dynastic termination.
+inca_1400_1425,Inca Empire,1400,1425,32,11,stable,0,0,medium,"A highly centralized imperial system retains strong roads, stores, and ruler-centered authority."
+inca_1425_1450,Inca Empire,1425,1450,32,11,stable,0,0,medium,"A highly centralized imperial system retains strong roads, stores, and ruler-centered authority."
+inca_1450_1475,Inca Empire,1450,1475,32,11,stable,0,0,medium,"A highly centralized imperial system retains strong roads, stores, and ruler-centered authority."
+inca_1475_1500,Inca Empire,1475,1500,32,11,stable,0,0,medium,"A highly centralized imperial system retains strong roads, stores, and ruler-centered authority."
+inca_1500_1525,Inca Empire,1500,1525,32,10,stressed,1,1,medium,Late-imperial succession stress and epidemic disruption begin to weaken an otherwise powerful empire.
+inca_1525_1550,Inca Empire,1525,1550,32,7,collapse,3,0,medium,"Civil war, epidemic disruption, and Spanish conquest combine in terminal imperial collapse."
+inca_1550_1575,Inca Empire,1550,1575,32,11,post-collapse,2,0,medium,"Post-conquest resistance persists, but imperial territorial control and recovery capacity are broken."
+khmer_1000_1025,Khmer Empire,1000,1025,32,11,stable,0,0,medium,Angkor remains a powerful hydraulic empire with strong logistical and adaptive capacity.
+khmer_1025_1050,Khmer Empire,1025,1050,32,11,stable,0,0,medium,Angkor remains a powerful hydraulic empire with strong logistical and adaptive capacity.
+khmer_1050_1075,Khmer Empire,1050,1075,32,11,stable,0,0,medium,Angkor remains a powerful hydraulic empire with strong logistical and adaptive capacity.
+khmer_1075_1100,Khmer Empire,1075,1100,32,11,stable,0,0,medium,Angkor remains a powerful hydraulic empire with strong logistical and adaptive capacity.
+khmer_1100_1125,Khmer Empire,1100,1125,32,11,stable,0,0,medium,Angkor remains a powerful hydraulic empire with strong logistical and adaptive capacity.
+khmer_1125_1150,Khmer Empire,1125,1150,32,11,stable,0,0,medium,Angkor remains a powerful hydraulic empire with strong logistical and adaptive capacity.
+khmer_1150_1175,Khmer Empire,1150,1175,32,11,stable,0,0,medium,Angkor remains a powerful hydraulic empire with strong logistical and adaptive capacity.
+khmer_1175_1200,Khmer Empire,1175,1200,32,10,stressed,1,0,medium,Peak complexity after Jayavarman VII increases administrative burden and long-term infrastructural vulnerability.
+khmer_1200_1225,Khmer Empire,1200,1225,32,10,stressed,1,0,medium,Peak complexity after Jayavarman VII increases administrative burden and long-term infrastructural vulnerability.
+khmer_1225_1250,Khmer Empire,1225,1250,32,10,stressed,1,0,medium,Peak complexity after Jayavarman VII increases administrative burden and long-term infrastructural vulnerability.
+khmer_1250_1275,Khmer Empire,1250,1275,32,6,decline,2,0,medium,Institutional and urban weakening becomes more visible as central mobilization and hydraulic maintenance lose coherence.
+khmer_1275_1300,Khmer Empire,1275,1300,32,6,decline,2,0,medium,Institutional and urban weakening becomes more visible as central mobilization and hydraulic maintenance lose coherence.
+khmer_1300_1325,Khmer Empire,1300,1325,32,6,decline,2,0,medium,Institutional and urban weakening becomes more visible as central mobilization and hydraulic maintenance lose coherence.
+khmer_1325_1350,Khmer Empire,1325,1350,32,4,decline,2,0,medium,"Late Angkor faces deeper water-management stress, climate volatility, and declining adaptive capacity."
+khmer_1350_1375,Khmer Empire,1350,1375,32,4,decline,2,0,medium,"Late Angkor faces deeper water-management stress, climate volatility, and declining adaptive capacity."
+khmer_1375_1400,Khmer Empire,1375,1400,32,4,decline,2,1,medium,"Late Angkor faces deeper water-management stress, climate volatility, and declining adaptive capacity."
+khmer_1400_1425,Khmer Empire,1400,1425,32,5,collapse,3,0,medium,"Severe drought-flood oscillation, hydraulic fragility, urban decline, and Ayutthayan pressure drive terminal Angkorian collapse."
+khmer_1425_1450,Khmer Empire,1425,1450,32,11,post-collapse,2,0,medium,"Political power shifts away from Angkor, leaving a transformed post-collapse landscape rather than instant civilizational disappearance."
+maya_600_625,Maya,600,625,32,11,stable,0,0,medium,"Classic Maya polities remain viable, though hierarchy and rivalry already create background fragility."
+maya_625_650,Maya,625,650,32,11,stable,0,0,medium,"Classic Maya polities remain viable, though hierarchy and rivalry already create background fragility."
+maya_650_675,Maya,650,675,32,11,stable,0,0,medium,"Classic Maya polities remain viable, though hierarchy and rivalry already create background fragility."
+maya_675_700,Maya,675,700,32,11,stable,0,0,medium,"Classic Maya polities remain viable, though hierarchy and rivalry already create background fragility."
+maya_700_725,Maya,700,725,32,9,stressed,1,0,medium,Competition among city-states and rising population and drought sensitivity increase systemic stress.
+maya_725_750,Maya,725,750,32,9,stressed,1,0,medium,Competition among city-states and rising population and drought sensitivity increase systemic stress.
+maya_750_775,Maya,750,775,32,9,stressed,1,0,medium,Competition among city-states and rising population and drought sensitivity increase systemic stress.
+maya_775_800,Maya,775,800,32,9,decline,2,0,medium,"Political fragmentation, warfare, urban weakening, and drought-related food stress intensify across many southern lowland polities."
+maya_800_825,Maya,800,825,32,9,decline,2,0,medium,"Political fragmentation, warfare, urban weakening, and drought-related food stress intensify across many southern lowland polities."
+maya_825_850,Maya,825,850,32,9,decline,2,0,medium,"Political fragmentation, warfare, urban weakening, and drought-related food stress intensify across many southern lowland polities."
+maya_850_875,Maya,850,875,32,11,decline,2,1,medium,"Many southern lowland centers enter acute decline, but the regional collapse is still uneven."
+maya_875_900,Maya,875,900,32,12,collapse,3,0,medium,"Terminal abandonment and fragmentation spread across core southern lowland centers as drought, warfare, and dynastic failure combine."
+maya_900_925,Maya,900,925,32,20,post-collapse,2,0,medium,"The southern collapse persists, though Maya society continues in more regionally uneven and resilient forms elsewhere."
+maya_925_950,Maya,925,950,32,20,post-collapse,1,0,medium,"Post-collapse conditions remain visible in the southern lowlands, but the wider Maya world is not uniformly extinguished."
+ming_qing_1550_1575,Ming/Qing Transition,1550,1575,32,8,stressed,1,0,medium,"Court paralysis, succession conflict, and fiscal strain are visible, but the Ming state is still intact."
+ming_qing_1575_1600,Ming/Qing Transition,1575,1600,32,8,stressed,1,0,medium,"Court paralysis, succession conflict, and fiscal strain are visible, but the Ming state is still intact."
+ming_qing_1600_1625,Ming/Qing Transition,1600,1625,32,7,decline,2,1,medium,"Factionalism, military pressure in the northeast, and fiscal weakness move the late Ming into clear decline."
+ming_qing_1625_1650,Ming/Qing Transition,1625,1650,32,3,collapse,3,0,medium,"Drought-famine crisis, rebellion, fiscal breakdown, and Manchu conquest drive terminal Ming collapse."
+ming_qing_1650_1675,Ming/Qing Transition,1650,1675,32,11,post-collapse,2,0,medium,"The Qing transition remains violent and unsettled, but the Ming collapse phase has passed."
+ming_qing_1675_1700,Ming/Qing Transition,1675,1700,32,11,post-collapse,1,0,medium,The dynastic transition stabilizes under Qing rule even though the old Ming order is gone.
+sassanian_500_525,Sassanian Empire,500,525,32,11,stable,0,0,medium,"The empire remains coherent, though later fragility is already visible in crown-nobility relations."
+sassanian_525_550,Sassanian Empire,525,550,32,11,stable,0,0,medium,"The empire remains coherent, though later fragility is already visible in crown-nobility relations."
+sassanian_550_575,Sassanian Empire,550,575,32,11,stable,0,0,medium,"The empire remains coherent, though later fragility is already visible in crown-nobility relations."
+sassanian_575_600,Sassanian Empire,575,600,32,10,stressed,1,0,medium,Elite rivalry and military rebellion reveal growing weakness in royal control before the final crisis.
+sassanian_600_625,Sassanian Empire,600,625,32,7,decline,2,1,medium,The long war with Byzantium overextends the empire and weakens its fiscal and alliance systems.
+sassanian_625_650,Sassanian Empire,625,650,32,7,collapse,3,0,medium,"War exhaustion, plague, succession chaos, civil war, and Arab conquest combine in terminal collapse."
+sassanian_650_651,Sassanian Empire,650,651,32,11,post-collapse,3,0,medium,The imperial framework has disintegrated and no meaningful recovery capacity remains.
+ussr_1950_1960,Soviet Union,1950,1960,32,0,stable,0,0,medium,The postwar Soviet system is still resilient despite centralization and long-term institutional rigidity.
+ussr_1960_1970,Soviet Union,1960,1970,32,0,stressed,1,0,medium,"Institutional rigidity grows as reform limits become clearer, but fragmentation remains low."
+ussr_1970_1980,Soviet Union,1970,1980,32,0,stressed,1,0,high,"Stagnation, corruption, and institutional rigidity deepen while overt fragmentation remains limited."
+ussr_1980_1990,Soviet Union,1980,1990,32,0,decline,2,1,high,"Failed reform, shortages, strikes, and nationalist mobilization push the late USSR into clear decline."
+ussr_1990_1991,Soviet Union,1990,1991,32,0,collapse,3,0,high,"Republican sovereignty, elite rupture, and terminal legitimacy crisis break the Union apart in 1991."
+rome_west_-100_-75,Western Roman Empire,-100,-75,32,10,stable,0,0,medium,"Imperial order is broadly stable, with low acute crisis indicators and strong resilience."
+rome_west_-75_-50,Western Roman Empire,-75,-50,32,10,stable,0,0,medium,"Imperial order is broadly stable, with low acute crisis indicators and strong resilience."
+rome_west_-50_-25,Western Roman Empire,-50,-25,32,10,stable,0,0,medium,"Imperial order is broadly stable, with low acute crisis indicators and strong resilience."
+rome_west_-25_0,Western Roman Empire,-25,0,32,10,stable,0,0,medium,"Imperial order is broadly stable, with low acute crisis indicators and strong resilience."
+rome_west_0_25,Western Roman Empire,0,25,32,10,stable,0,0,medium,"Imperial order is broadly stable, with low acute crisis indicators and strong resilience."
+rome_west_25_50,Western Roman Empire,25,50,32,10,stable,0,0,medium,"Imperial order is broadly stable, with low acute crisis indicators and strong resilience."
+rome_west_50_75,Western Roman Empire,50,75,32,10,stable,0,0,medium,"Imperial order is broadly stable, with low acute crisis indicators and strong resilience."
+rome_west_75_100,Western Roman Empire,75,100,32,10,stable,0,0,medium,"Imperial order is broadly stable, with low acute crisis indicators and strong resilience."
+rome_west_100_125,Western Roman Empire,100,125,32,10,stable,0,0,medium,"Imperial order is broadly stable, with low acute crisis indicators and strong resilience."
+rome_west_125_150,Western Roman Empire,125,150,32,10,stable,0,0,medium,"Imperial order is broadly stable, with low acute crisis indicators and strong resilience."
+rome_west_150_175,Western Roman Empire,150,175,32,7,stressed,1,0,medium,"Frontier strain and administrative-fiscal pressure rise, but the western imperial system remains intact."
+rome_west_175_200,Western Roman Empire,175,200,32,7,stressed,1,0,medium,"Frontier strain and administrative-fiscal pressure rise, but the western imperial system remains intact."
+rome_west_200_225,Western Roman Empire,200,225,32,7,stressed,1,0,medium,"Frontier strain and administrative-fiscal pressure rise, but the western imperial system remains intact."
+rome_west_225_250,Western Roman Empire,225,250,32,6,decline,2,1,medium,"The third-century crisis intensifies elite conflict, military strain, and fiscal instability before later recovery."
+rome_west_250_275,Western Roman Empire,250,275,32,6,collapse,3,0,medium,"The third-century crisis reaches collapse-level fragmentation and conflict, though recovery capacity remains substantial."
+rome_west_275_300,Western Roman Empire,275,300,32,10,post-collapse,2,0,medium,"Reform and reconsolidation restore order, but the imperial system remains heavily militarized and burdensome."
+rome_west_300_325,Western Roman Empire,300,325,32,10,post-collapse,2,0,medium,"Reform and reconsolidation restore order, but the imperial system remains heavily militarized and burdensome."
+rome_west_325_350,Western Roman Empire,325,350,32,10,post-collapse,2,0,medium,"Reform and reconsolidation restore order, but the imperial system remains heavily militarized and burdensome."
+rome_west_350_375,Western Roman Empire,350,375,32,7,decline,2,0,medium,"Late imperial cohesion weakens under migration pressure, military burden, and growing fiscal strain."
+rome_west_375_400,Western Roman Empire,375,400,32,7,decline,2,0,medium,"Late imperial cohesion weakens under migration pressure, military burden, and growing fiscal strain."
+rome_west_400_425,Western Roman Empire,400,425,32,7,decline,2,0,medium,"Late imperial cohesion weakens under migration pressure, military burden, and growing fiscal strain."
+rome_west_425_450,Western Roman Empire,425,450,32,7,decline,2,1,medium,"The western empire survives but suffers deep territorial, fiscal, and alliance erosion."
+rome_west_450_475,Western Roman Empire,450,475,32,7,collapse,3,0,medium,"Terminal western collapse follows repeated elite conflict, territorial loss, invasion pressure, and fiscal breakdown."
+rome_west_475_500,Western Roman Empire,475,500,32,11,post-collapse,3,0,medium,"Post-476 successor polities persist, but western Roman imperial capacity is gone."
+yugoslavia_1945_1955,Yugoslavia,1945,1955,32,0,stable,0,0,medium,"Federal Yugoslavia remains intact, with limited overt fragmentation under Tito's authority."
+yugoslavia_1955_1965,Yugoslavia,1955,1965,32,0,stable,0,0,medium,"Federal Yugoslavia remains intact, with limited overt fragmentation under Tito's authority."
+yugoslavia_1965_1975,Yugoslavia,1965,1975,32,0,stressed,1,0,medium,Decentralization and uneven development increase structural strain without yet breaking the federation.
+yugoslavia_1975_1985,Yugoslavia,1975,1985,32,0,stressed,1,1,high,"The 1974 constitution, Tito's death, and worsening debt and inflation deepen institutional fragility."
+yugoslavia_1985_1995,Yugoslavia,1985,1995,32,0,collapse,3,0,high,"Elite nationalist mobilization, economic crisis, and the breakdown of federal coercive institutions drive violent fragmentation."
+yugoslavia_1995_2000,Yugoslavia,1995,2000,32,10,post-collapse,2,0,high,Post-fragmentation successor states persist amid weak recovery and residual territorial and ethnic conflict.

@@ -1,0 +1,8 @@
+case_id,case_name,case_type,region,period_start,period_end,time_window_years,phase_label,collapse_outcome,collapse_within_next_window,political_fragmentation,elite_conflict,succession_crisis,legitimacy_crisis,administrative_overload,corruption_governance_failure,social_inequality,social_unrest_rebellion,demographic_pressure,migration_pressure,ethnic_sectarian_fragmentation,urban_decline,fiscal_crisis,taxation_extraction_pressure,trade_disruption,inflation_currency_instability,resource_dependency,agricultural_decline,drought_climate_stress,flood_environmental_shock,temperature_anomaly,ecological_degradation,food_insecurity,external_invasion_pressure,civil_war_internal_conflict,military_overstretch,territorial_loss,institutional_rigidity,adaptive_capacity,logistics_food_storage_resilience,alliance_network_strength,recovery_capacity,data_confidence,source_count,notes
+han_150_160,Han Dynasty Crisis,ancient,East Asia,150,160,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+han_160_170,Han Dynasty Crisis,ancient,East Asia,160,170,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+han_170_180,Han Dynasty Crisis,ancient,East Asia,170,180,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+han_180_190,Han Dynasty Crisis,ancient,East Asia,180,190,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+han_190_200,Han Dynasty Crisis,ancient,East Asia,190,200,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+han_200_210,Han Dynasty Crisis,ancient,East Asia,200,210,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+han_210_220,Han Dynasty Crisis,ancient,East Asia,210,220,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,9 @@
+case_id,case_name,case_type,region,period_start,period_end,time_window_years,phase_label,collapse_outcome,collapse_within_next_window,political_fragmentation,elite_conflict,succession_crisis,legitimacy_crisis,administrative_overload,corruption_governance_failure,social_inequality,social_unrest_rebellion,demographic_pressure,migration_pressure,ethnic_sectarian_fragmentation,urban_decline,fiscal_crisis,taxation_extraction_pressure,trade_disruption,inflation_currency_instability,resource_dependency,agricultural_decline,drought_climate_stress,flood_environmental_shock,temperature_anomaly,ecological_degradation,food_insecurity,external_invasion_pressure,civil_war_internal_conflict,military_overstretch,territorial_loss,institutional_rigidity,adaptive_capacity,logistics_food_storage_resilience,alliance_network_strength,recovery_capacity,data_confidence,source_count,notes
+akkadian_-2350_-2325,Akkadian Empire,ancient,Mesopotamia,-2350,-2325,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+akkadian_-2325_-2300,Akkadian Empire,ancient,Mesopotamia,-2325,-2300,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+akkadian_-2300_-2275,Akkadian Empire,ancient,Mesopotamia,-2300,-2275,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+akkadian_-2275_-2250,Akkadian Empire,ancient,Mesopotamia,-2275,-2250,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+akkadian_-2250_-2225,Akkadian Empire,ancient,Mesopotamia,-2250,-2225,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+akkadian_-2225_-2200,Akkadian Empire,ancient,Mesopotamia,-2225,-2200,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+akkadian_-2200_-2175,Akkadian Empire,ancient,Mesopotamia,-2200,-2175,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+akkadian_-2175_-2150,Akkadian Empire,ancient,Mesopotamia,-2175,-2150,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+case_id,case_name,case_type,region,period_start,period_end,time_window_years,phase_label,collapse_outcome,collapse_within_next_window,political_fragmentation,elite_conflict,succession_crisis,legitimacy_crisis,administrative_overload,corruption_governance_failure,social_inequality,social_unrest_rebellion,demographic_pressure,migration_pressure,ethnic_sectarian_fragmentation,urban_decline,fiscal_crisis,taxation_extraction_pressure,trade_disruption,inflation_currency_instability,resource_dependency,agricultural_decline,drought_climate_stress,flood_environmental_shock,temperature_anomaly,ecological_degradation,food_insecurity,external_invasion_pressure,civil_war_internal_conflict,military_overstretch,territorial_loss,institutional_rigidity,adaptive_capacity,logistics_food_storage_resilience,alliance_network_strength,recovery_capacity,data_confidence,source_count,notes
+ussr_1950_1960,Soviet Union,modern,Eurasia,1950,1960,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ussr_1960_1970,Soviet Union,modern,Eurasia,1960,1970,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ussr_1970_1980,Soviet Union,modern,Eurasia,1970,1980,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ussr_1980_1990,Soviet Union,modern,Eurasia,1980,1990,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ussr_1990_1991,Soviet Union,modern,Eurasia,1990,1991,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

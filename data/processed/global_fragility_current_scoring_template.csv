@@ -1,0 +1,13 @@
+factor_name,historical_category,historical_weight,current_global_score_0_to_3,confidence_level,evidence_notes,weighted_score
+legitimacy_crisis,political,0.106313,2,medium,"Global democratic legitimacy is under broad strain, with continuing freedom decline and widespread governance distrust.",
+geopolitical_instability,military_geopolitical,0.100526,3,high,"Russia-Ukraine war and wider Middle East instability create simultaneous territorial, security, and energy-system stress.",
+adaptive_capacity_resilience,resilience_institutional,0.098742,2,medium,"The global system still has meaningful resilience tools, but adaptation finance and coordination remain insufficient.",
+political_fragmentation_polarization,political,0.096189,2,medium,"Growing bloc polarization and widespread political fragmentation indicate moderate systemic division.",
+trade_disruption,economic,0.094495,3,high,"Energy and shipping disruptions are pushing up supply-chain risk and global input costs.",
+conflict_pressure,military_geopolitical,0.089513,3,high,"Multiple active wars with cross-border spillovers keep global conflict pressure high.",
+fiscal_strain,economic,0.08236,1,low,"The global economy remains relatively resilient overall, though fiscal buffers face pressure from geopolitical shocks.",
+urban_social_stress,social,0.079924,2,medium,"High forced displacement and persistent social strain support a moderate global urban/social stress score.",
+institutional_rigidity,political+resilience_institutional,0.079556,2,medium,"Institutions are responding, but slow adaptation and uneven coordination suggest moderate rigidity.",
+food_insecurity,economic+environmental,0.075357,2,high,"Large-scale hunger and acute food insecurity remain significant at the global level.",
+resource_dependency,economic,0.061805,3,high,"Current energy shocks show continued dependence on strategic fossil-fuel flows and chokepoints.",
+environmental_stress,environmental,0.03522,3,high,"Record heat, rising climate disruption, and growing water stress support a high environmental-stress score.",

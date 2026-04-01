@@ -1,0 +1,7 @@
+case_id,case_name,case_type,region,period_start,period_end,time_window_years,phase_label,collapse_outcome,collapse_within_next_window,political_fragmentation,elite_conflict,succession_crisis,legitimacy_crisis,administrative_overload,corruption_governance_failure,social_inequality,social_unrest_rebellion,demographic_pressure,migration_pressure,ethnic_sectarian_fragmentation,urban_decline,fiscal_crisis,taxation_extraction_pressure,trade_disruption,inflation_currency_instability,resource_dependency,agricultural_decline,drought_climate_stress,flood_environmental_shock,temperature_anomaly,ecological_degradation,food_insecurity,external_invasion_pressure,civil_war_internal_conflict,military_overstretch,territorial_loss,institutional_rigidity,adaptive_capacity,logistics_food_storage_resilience,alliance_network_strength,recovery_capacity,data_confidence,source_count,notes
+yugoslavia_1945_1955,Yugoslavia,modern,Balkans,1945,1955,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yugoslavia_1955_1965,Yugoslavia,modern,Balkans,1955,1965,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yugoslavia_1965_1975,Yugoslavia,modern,Balkans,1965,1975,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yugoslavia_1975_1985,Yugoslavia,modern,Balkans,1975,1985,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yugoslavia_1985_1995,Yugoslavia,modern,Balkans,1985,1995,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yugoslavia_1995_2000,Yugoslavia,modern,Balkans,1995,2000,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
