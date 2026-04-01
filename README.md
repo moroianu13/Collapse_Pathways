@@ -2,13 +2,43 @@
 
 A comparative historical collapse-pattern analysis project that codes major cases of state, imperial, and regional breakdown into a structured, uncertainty-aware dataset.
 
-## Start Here
+## Recommended Review Order
 
 For a first review of the project, open these notebooks in order:
 
 1. `notebooks/12_core_findings_summary.ipynb`
 2. `notebooks/15_global_fragility_scored_current_world.ipynb`
 3. `notebooks/16_global_fragility_scenarios.ipynb`
+
+## Key Results
+
+- Severe and terminal collapse rows are most strongly associated with `territorial_loss`, `political_fragmentation`, `legitimacy_crisis`, `fiscal_crisis`, and `civil_war_internal_conflict`.
+- Terminal-breakdown rows show especially high scores for fragmentation, territorial erosion, fiscal stress, and institutional strain rather than any single monocausal pattern.
+- Environmental and demographic variables matter in important cases, but they are also among the most uncertainty-limited parts of the dataset.
+- The present-day global extension produces a baseline **Global Fragility Index** of `73.35 / 100`, interpreted as **High fragility** in terms of overlap with historical stress patterns.
+- Scenario testing keeps the historical weights fixed and yields a range from **55.25** (`Moderate fragility`) to **91.45** (`Severe systemic stress`), showing that present-day scoring assumptions matter.
+
+## Selected Visuals
+
+### Historical Pattern Signals
+
+<img src="reports/figures/top_differentiating_factors.png" alt="Top differentiating historical collapse factors" width="820" />
+
+Factors that rise most sharply when moving from lower-collapse rows to severe-collapse rows.
+
+<img src="reports/figures/top_terminal_collapse_factors.png" alt="Top terminal collapse factors" width="820" />
+
+Highest-intensity factors within rows coded as terminal collapse or fragmentation.
+
+<img src="reports/figures/factor_uncertainty_ranking.png" alt="Factor uncertainty ranking" width="820" />
+
+Most uncertainty-limited factors in the dataset, shown as the share of rows coded `9 = unknown`.
+
+### Global Extension
+
+<img src="reports/figures/global_fragility_scenarios.png" alt="Global fragility scenario comparison" width="760" />
+
+Scenario comparison for the present-day global fragility extension using fixed historical weights and varying current-world scoring assumptions.
 
 ## Project Summary
 
